@@ -36,7 +36,7 @@ def normalization(sample):
 
 #### Plots samplers and automatic stations
 
-def plot_samplers(X, Y, x, y):
+def plot_samplers(X, Y, x, y, title='Figure'):
 
     plt.clf()
     plt.figure()
@@ -67,8 +67,8 @@ def plot_samplers(X, Y, x, y):
     plt.tick_params(axis='y', which='both', left=False, right=False, labelleft=True)
     plt.legend(frameon=False, prop= legend_style)
 
-    plt.savefig('img/3a.pdf', dpi=300, figsize=(5,5))
-    #plt.savefig('img/3a.png', dpi=300, figsize=(5,5))
+    plt.savefig('img/'+title+'.pdf', dpi=300, figsize=(5,5))
+    #plt.savefig('img/'+title+'.png', dpi=300, figsize=(5,5))
 
 
 
