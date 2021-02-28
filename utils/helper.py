@@ -223,26 +223,57 @@ def plot_NO2_by_district(df):
 
 #### Plots population
 
-def plot_population(distributions):
+def plot_population(distributions, kind='bar'):
 
     plt.clf()
     plt.figure()
 
-    plt.bar(x=(list(range(0, 4000, 250))), 
-            height=distributions[0], 
-            color="dodgerblue", 
-            label="Barcelona", 
-            width=240, 
-            alpha=0.6,
-            align='edge')
+    if kind == 'bar' or kind=='both':
+        plt.bar(x=(list(range(0, 4000, 250))), 
+                height=distributions[0], 
+                color="dodgerblue", 
+                label="Barcelona", 
+                width=240, 
+                alpha=0.6,
+                align='edge')
 
-    plt.bar(x=(list(range(0, 4000, 250))), 
-            height=distributions[1], 
-            color="red", 
-            label="Sampling sites", 
-            width=240, alpha=0.6, 
-            align='edge')
+        plt.bar(x=(list(range(0, 4000, 250))), 
+                height=distributions[1], 
+                color="red", 
+                label="Sampling sites", 
+                width=240, alpha=0.6, 
+                align='edge')
+    
+    if kind =='line' or kind =='both':
+        plt.plot(np.array(range(125, 4000, 250)), 
+                 distributions[0], 
+                 color="darkblue", 
+                 label="Barcelona", 
+                 marker='x', linestyle=':', linewidth=2
+                )
 
+        plt.plot(np.array(range(125, 4000, 250)), 
+                 distributions[1],
+                 color="darkred", 
+                 label="Sampling sites", 
+                 marker='o', linestyle=':', linewidth=2
+                )
+        
+    if kind =='double':
+        plt.bar(x=(list(range(-100, 3750, 250))), 
+                height=distributions[0], 
+                color="dodgerblue", 
+                label="Barcelona", 
+                width=100, 
+                alpha=0.75,
+                align='edge')
+
+        plt.bar(x=(list(range(0, 4000, 250))), 
+                height=distributions[1], 
+                color="red", 
+                label="Sampling sites", 
+                width=100, alpha=0.75, 
+                align='edge')
 
     # Decoration
     plt.xlabel('Population (inhabitants per census tract)', **label_style)
@@ -299,7 +330,8 @@ def plot_income(distributions):
 
     plt.clf()
     plt.figure()
-
+    
+    '''
     plt.bar(x=(list(range(0, 35000, 1000))), 
             height=distributions[0], 
             color="dodgerblue", 
@@ -313,6 +345,21 @@ def plot_income(distributions):
             color="red", 
             label="Sampling sites", 
             width=900, alpha=0.6, 
+            align='edge')
+    '''
+    plt.bar(x=(list(range(-400, 34500, 1000))), 
+        height=distributions[0], 
+        color="dodgerblue", 
+        label="Barcelona", 
+        width=400, 
+        alpha=0.75,
+        align='edge')
+
+    plt.bar(x=(list(range(0, 35000, 1000))), 
+            height=distributions[1], 
+            color="red", 
+            label="Sampling sites", 
+            width=400, alpha=0.75, 
             align='edge')
 
 
