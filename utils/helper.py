@@ -78,21 +78,52 @@ def plot_NO2(df):
 
     plt.figure()
 
-    sns.distplot(df[df['no2_2017']<=20]['no2_2017'], bins=range(0,140,5), color=reds[0], label="< 20 µg/m3", kde= False, hist_kws=dict(width=4.7, alpha=1))
-    sns.distplot(df[(df['no2_2017'] > 20) & (df['no2_2017'] <= 25)]['no2_2017'], bins=range(0,140,5), color=reds[1], label="20 - 24 µg/m3", kde= False, hist_kws=dict(width=4.7, alpha=1))
-    sns.distplot(df[(df['no2_2017'] > 25) & (df['no2_2017'] <= 30)]['no2_2017'], bins=range(0,140,5), color=reds[2], label="25 - 29 µg/m3", kde= False, hist_kws=dict(width=4.7, alpha=1))
-    sns.distplot(df[(df['no2_2017'] > 30) & (df['no2_2017'] <= 35)]['no2_2017'], bins=range(0,140,5), color=reds[3], label="30 - 34 µg/m3", kde= False, hist_kws=dict(width=4.7, alpha=1))
-    sns.distplot(df[(df['no2_2017'] > 35) & (df['no2_2017'] <= 40)]['no2_2017'], bins=range(0,140,5), color=reds[4], label="35 - 39 µg/m3", kde= False, hist_kws=dict(width=4.7, alpha=1))
-    sns.distplot(df[(df['no2_2017'] > 40) & (df['no2_2017'] <= 45)]['no2_2017'], bins=range(0,140,5), color=reds[5], label="40 - 44 µg/m3", kde= False, hist_kws=dict(width=4.7, alpha=1))
-    sns.distplot(df[(df['no2_2017'] > 45) & (df['no2_2017'] < 50)]['no2_2017'], bins=range(0,140,5), color=reds[6], label="45 - 49 µg/m3", kde= False, hist_kws=dict(width=4.7, alpha=1))
-    sns.distplot(df[(df['no2_2017'] > 50)]['no2_2017'], bins=range(0,140,5), color=reds[7], label="> 50µg/m3", kde= False, hist_kws=dict(width=4.7, alpha=1))
+    ax = sns.distplot(df["no2_2017"], 
+             bins=range(0,140,5),
+             kde=False,
+             color='grey', label="", hist_kws=dict(width=4.7, alpha=0.6))
+
+
+    patches = ax.patches
+
+    for i in range(0,4):
+        patches[i].set_facecolor(reds[0])
+        patches[i].set_alpha(1)
+
+    for i in range(4,5):
+        patches[i].set_facecolor(reds[1])
+        patches[i].set_alpha(1)
+
+    for i in range(5,6):
+        patches[i].set_facecolor(reds[2])
+        patches[i].set_alpha(1)
+
+    for i in range(6,7):
+        patches[i].set_facecolor(reds[3])
+        patches[i].set_alpha(1)
+
+    for i in range(7,8):
+        patches[i].set_facecolor(reds[4])
+        patches[i].set_alpha(1)
+
+    for i in range(8,9):
+        patches[i].set_facecolor(reds[5])
+        patches[i].set_alpha(1)
+
+    for i in range(9,10):
+        patches[i].set_facecolor(reds[6])
+        patches[i].set_alpha(1)
+
+    for i in range(10,26):
+        patches[i].set_facecolor(reds[7])
+        patches[i].set_alpha(1)
 
     # Decoration
     plt.xlabel('NO2 level', **label_style)
     plt.ylabel('Sampling sites', **label_style)
     plt.xticks(**ticks_style)
     plt.yticks(**ticks_style)
-    plt.ylim(0,120)
+    plt.ylim(0,140)
     plt.gca().spines["top"].set_visible(False)    
     plt.gca().spines["bottom"].set_visible(True)    
     plt.gca().spines["right"].set_visible(False)    
@@ -292,8 +323,8 @@ def plot_population(distributions, kind='bar'):
 
     plt.tight_layout()
 
-    plt.savefig('img/Figure5a.pdf', dpi=300, figsize=(7,5))
-    #plt.savefig('img/Figure5a.png', dpi=300, figsize=(7,5))
+    plt.savefig('img/FigureS2a.pdf', dpi=300, figsize=(7,5))
+    #plt.savefig('img/FigureS2a.png', dpi=300, figsize=(7,5))
 
 def plot_population_corr(df):
 
@@ -321,8 +352,8 @@ def plot_population_corr(df):
 
     plt.tight_layout()
 
-    plt.savefig('img/Figure5b.pdf', dpi=300, figsize=(5,5))
-    #plt.savefig('img/Figure5b.png', dpi=300, figsize=(5,5))
+    plt.savefig('img/FigureS2b.pdf', dpi=300, figsize=(5,5))
+    #plt.savefig('img/FigureS2b.png', dpi=300, figsize=(5,5))
 
 #### Plots income
 
@@ -380,8 +411,8 @@ def plot_income(distributions):
 
     plt.tight_layout()
 
-    plt.savefig('img/FigureS1a.pdf', dpi=300, figsize=(7,5))
-    #plt.savefig('img/FigureS1a.png', dpi=300, figsize=(7,5))
+    plt.savefig('img/FigureS3a.pdf', dpi=300, figsize=(7,5))
+    #plt.savefig('img/FigureS3a.png', dpi=300, figsize=(7,5))
 
 def plot_income_corr(df):
 
@@ -410,8 +441,8 @@ def plot_income_corr(df):
 
     plt.tight_layout()
 
-    plt.savefig('img/FigureS1b.pdf', dpi=300, figsize=(5,5))
-    #plt.savefig('img/FigureS1b.png', dpi=300, figsize=(5,5))
+    plt.savefig('img/FigureS3b.pdf', dpi=300, figsize=(5,5))
+    #plt.savefig('img/FigureS3b.png', dpi=300, figsize=(5,5))
 
 #### Statistical testing
 
