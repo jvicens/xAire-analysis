@@ -1,0 +1,726 @@
+,escola,postal_code,district,neighborhood,tipus,no2_corregit,no2_2017,census_track,renta,poblacio
+0,80Tubes,8006,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,41,39,5069,21886,1758
+1,80Tubes,8006,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,46,44,5070,21586,1455
+2,80Tubes,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,28,27,5074,25406,1722
+3,80Tubes,8006,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,64,62,5081,20108,1607
+4,80Tubes,8006,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,106,102,5087,20829,1647
+5,80Tubes,8023,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,48,46,5092,26847,1591
+6,80Tubes,8022,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,64,62,5093,22232,1153
+7,80Tubes,8037,Eixample,la Dreta de l'Eixample,tràfic,92,89,2082,22869,934
+8,80Tubes,8008,Eixample,la Dreta de l'Eixample,tràfic,60,58,2080,25328,1450
+9,80Tubes,8008,Eixample,la Dreta de l'Eixample,tràfic,64,62,2080,25328,1450
+10,80Tubes,8009,Eixample,la Dreta de l'Eixample,tràfic,85,82,2080,25328,1450
+11,80Tubes,8010,Eixample,la Dreta de l'Eixample,tràfic,67,64,2077,21540,1539
+12,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,pati,33,32,10135,12015,1229
+13,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,35,34,10135,12015,1229
+14,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,34,33,10135,12015,1229
+15,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,pati,35,34,10135,12015,1229
+16,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,34,33,10130,13434,1204
+17,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,37,36,10131,15045,1187
+18,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,42,40,10131,15045,1187
+19,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,35,34,10135,12015,1229
+20,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,40,38,10131,15045,1187
+21,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,37,36,10131,15045,1187
+22,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,37,36,10133,12060,1677
+23,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,31,30,10133,12060,1677
+24,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,44,42,10134,11892,1501
+25,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,38,37,10137,10558,1572
+26,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,34,33,10137,10558,1572
+27,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,35,34,10137,10558,1572
+28,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,41,39,10137,10558,1572
+29,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,41,39,10138,9836,1566
+30,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,41,39,10138,9836,1566
+31,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,42,40,10138,9836,1566
+32,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,37,36,10140,10410,1627
+33,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,35,34,10138,9836,1566
+34,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,33,32,10137,10558,1572
+35,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,31,30,10137,10558,1572
+36,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,36,35,10136,12514,1338
+37,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,34,33,10135,12015,1229
+38,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,31,30,10135,12015,1229
+39,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,33,32,10132,12199,1270
+40,Escola Els Horts (Sant Martí),8020,Sant Martí,Sant Martí de Provençals,fons,31,30,10115,12677,1475
+41,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,fons,34,33,10133,12060,1677
+42,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,aula,34,33,10135,12015,1229
+43,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,45,43,10135,12015,1229
+44,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,aula,39,38,10135,12015,1229
+45,Escola Els Horts (Sant Martí),8020,Sant Martí,la Verneda i la Pau,tràfic,37,36,10135,12015,1229
+46,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Poblenou,pati,24,23,10067,20163,1950
+47,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Poblenou,aula,44,42,10067,20163,1950
+48,Escola Sant Martí (Sant Martí),8018,Sant Martí,Provençals del Poblenou,fons,38,37,10096,16474,1625
+49,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Poblenou,tràfic,49,47,10075,13733,1488
+50,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Poblenou,tràfic,48,46,10074,13952,1664
+51,Escola Sant Martí (Sant Martí),8005,Sant Martí,Diagonal Mar i el Front Marítim del Poblenou,fons,47,45,10078,19030,2432
+52,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,44,42,10073,13303,1485
+53,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Poblenou,tràfic,52,50,10070,13977,1654
+54,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Parc i la Llacuna del Poblenou,fons,13,13,10042,12803,2649
+55,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Parc i la Llacuna del Poblenou,tràfic,56,54,10042,12803,2649
+56,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Parc i la Llacuna del Poblenou,tràfic,58,56,10042,12803,2649
+57,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Parc i la Llacuna del Poblenou,tràfic,56,54,10042,12803,2649
+58,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,fons,29,28,10061,17210,1816
+59,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,44,42,10064,15899,1697
+60,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,59,57,10066,15545,2142
+61,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Poblenou,tràfic,53,51,10067,20163,1950
+62,Escola Sant Martí (Sant Martí),8018,Sant Martí,Provençals del Poblenou,tràfic,61,59,10098,14246,1856
+63,Escola Sant Martí (Sant Martí),8018,Sant Martí,Provençals del Poblenou,tràfic,52,50,10097,16026,1586
+64,Escola Sant Martí (Sant Martí),8018,Sant Martí,Provençals del Poblenou,tràfic,60,58,10100,12886,1600
+65,Escola Sant Martí (Sant Martí),8018,Sant Martí,Provençals del Poblenou,fons,45,43,10096,16474,1625
+66,Escola Sant Martí (Sant Martí),8018,Sant Martí,Provençals del Poblenou,fons,47,45,10098,14246,1856
+67,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,61,59,10061,17210,1816
+68,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,57,55,10057,13299,1404
+69,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,fons,55,53,10059,15703,1722
+70,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,48,46,10056,12820,1929
+71,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,40,38,10056,12820,1929
+72,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,43,41,10056,12820,1929
+73,Escola Sant Martí (Sant Martí),8005,Sant Martí,la Vila Olímpica del Poblenou,fons,45,43,10055,24117,2590
+74,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,47,45,10057,13299,1404
+75,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,46,44,10058,13142,1163
+76,Escola Sant Martí (Sant Martí),8018,Sant Martí,el Poblenou,tràfic,41,39,10068,16949,1610
+77,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,fons,39,38,10064,15899,1697
+78,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,45,43,10062,17183,1513
+79,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,52,50,10060,13587,1624
+80,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,fons,39,38,10059,15703,1722
+81,Escola Sant Martí (Sant Martí),8005,Sant Martí,el Poblenou,tràfic,50,48,10060,13587,1624
+82,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,46,44,9064,15873,1197
+83,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,64,62,9064,15873,1197
+84,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,52,50,9064,15873,1197
+85,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,aula,26,25,9063,16470,1154
+86,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,pati,36,35,9063,16470,1154
+87,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,pati,41,39,9063,16470,1154
+88,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,pati,38,37,9063,16470,1154
+89,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,pati,33,32,9063,16470,1154
+90,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,45,43,9063,16470,1154
+91,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,49,47,9063,16470,1154
+92,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,51,49,9063,16470,1154
+93,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,52,50,9058,14977,1491
+94,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,52,50,9058,14977,1491
+95,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,45,43,9067,13059,1497
+96,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,45,43,9067,13059,1497
+97,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,65,63,9068,15664,1569
+98,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,44,42,9068,15664,1569
+99,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,fons,48,46,9057,13562,1563
+100,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,55,53,9067,13059,1497
+101,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,51,49,9070,10916,1774
+102,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,62,60,9056,15117,1144
+103,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,110,106,9057,13562,1563
+104,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,fons,58,56,9055,13253,1750
+105,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,44,42,9060,14229,1331
+106,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,44,42,9060,14229,1331
+107,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,fons,33,32,9060,14229,1331
+108,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,fons,37,36,9060,14229,1331
+109,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,42,40,9058,14977,1491
+110,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,50,48,9062,13407,1140
+111,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,52,50,9059,13874,1405
+112,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,fons,37,36,9061,15707,1695
+113,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,53,51,9062,13407,1140
+114,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,la Sagrera,tràfic,42,40,9065,14110,1973
+115,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,Navas,tràfic,60,58,9091,14386,1874
+116,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,Navas,tràfic,62,60,9091,14386,1874
+117,Escola El Sagrer (Sant Andreu),8027,Sant Andreu,Navas,tràfic,58,56,9089,14050,1484
+118,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,42,40,9046,15903,1322
+119,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,55,53,9049,14420,1314
+120,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,54,52,9023,15409,1216
+121,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,56,54,9017,14458,1539
+122,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,54,52,9018,13773,1464
+123,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,fons,48,46,9019,16043,2647
+124,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,62,60,9022,16186,1215
+125,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,49,47,9051,15324,1227
+126,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,60,58,9049,14420,1314
+127,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,49,47,9024,15312,1153
+128,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,41,39,9047,16685,1526
+129,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,44,42,9050,15805,1592
+130,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,el Bon Pastor,tràfic,46,44,9015,10106,1813
+131,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,el Bon Pastor,tràfic,52,50,9011,9812,1749
+132,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,el Bon Pastor,tràfic,56,54,9015,10106,1813
+133,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,pati,39,38,9024,15312,1153
+134,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,pati,40,38,9024,15312,1153
+135,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,aula,29,28,9024,15312,1153
+136,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,aula,29,28,9024,15312,1153
+137,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,49,47,9032,11944,2167
+138,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,45,43,9031,16474,1175
+139,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,41,39,9031,16474,1175
+140,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,51,49,9039,14989,1565
+141,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,44,42,9036,14671,1457
+142,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,47,45,9030,15544,1503
+143,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,el Bon Pastor,tràfic,52,50,9008,16141,1946
+144,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,el Bon Pastor,tràfic,51,49,9008,16141,1946
+145,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,fons,36,35,9025,15463,1182
+146,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,fons,43,41,9025,15463,1182
+147,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,38,37,9038,15502,1532
+148,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,41,39,9027,16506,1318
+149,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,44,42,9041,14383,1417
+150,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,55,53,9045,15107,1414
+151,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,42,40,9045,15107,1414
+152,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,36,35,9044,14920,1416
+153,Escola Can Fabra (Sant Andreu),8030,Sant Andreu,Sant Andreu de Palomar,tràfic,49,47,9025,15463,1182
+154,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,tràfic,37,36,8041,8424,2443
+155,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,tràfic,33,32,8047,9015,1569
+156,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,tràfic,30,29,8043,11179,1160
+157,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,fons,30,29,8047,9015,1569
+158,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,fons,28,27,8047,9015,1569
+159,Escola Calderon (Nou Barris),8031,Nou Barris,Can Peguera,tràfic,34,33,8048,8404,966
+160,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,fons,27,26,8048,8404,966
+161,Escola Calderon (Nou Barris),8031,Nou Barris,Can Peguera,tràfic,33,32,8048,8404,966
+162,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,38,37,8037,11887,1514
+163,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,42,40,8022,13653,1242
+164,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,49,47,8022,13653,1242
+165,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,fons,35,34,8026,13254,1460
+166,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,41,39,8026,13254,1460
+167,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,37,36,8027,14566,1313
+168,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,38,37,8027,14566,1313
+169,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,fons,37,36,8026,13254,1460
+170,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,pati,31,30,8038,11332,1505
+171,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,49,47,8028,12400,1068
+172,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,40,38,8037,11887,1514
+173,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,42,40,8035,12082,2368
+174,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,fons,38,37,8033,11621,1459
+175,Escola Calderon (Nou Barris),8042,Nou Barris,la Guineueta,tràfic,38,37,8215,13941,1487
+176,Escola Calderon (Nou Barris),8042,Nou Barris,la Guineueta,tràfic,33,32,8054,13856,1695
+177,Escola Calderon (Nou Barris),8042,Nou Barris,la Guineueta,fons,34,33,8215,13941,1487
+178,Escola Calderon (Nou Barris),8042,Nou Barris,la Guineueta,tràfic,32,31,8215,13941,1487
+179,Escola Calderon (Nou Barris),8042,Nou Barris,la Guineueta,tràfic,33,32,8050,15390,1423
+180,Escola Calderon (Nou Barris),8042,Nou Barris,la Guineueta,tràfic,34,33,8050,15390,1423
+181,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,tràfic,38,37,8038,11332,1505
+182,Escola Calderon (Nou Barris),8016,Nou Barris,Porta,tràfic,41,39,8037,11887,1514
+183,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,tràfic,51,49,8042,13658,1273
+184,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,fons,40,38,8042,13658,1273
+185,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,tràfic,40,38,8042,13658,1273
+186,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,aula,19,18,8038,11332,1505
+187,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,aula,19,18,8038,11332,1505
+188,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,tràfic,60,58,8038,11332,1505
+189,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,fons,38,37,8040,8876,1688
+190,Escola Calderon (Nou Barris),8031,Nou Barris,el Turó de la Peira,aula,25,24,8038,11332,1505
+191,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,fons,41,39,8014,12322,1230
+192,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,fons,37,36,8014,12322,1230
+193,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,fons,40,38,8013,14060,1222
+194,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,46,44,8011,15773,1213
+195,Escola Timbaler del Bruc (Nou Barris),8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,53,51,8011,15773,1213
+196,Escola Timbaler del Bruc (Nou Barris),8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,51,49,8005,14200,1161
+197,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,65,63,8014,12322,1230
+198,Escola Timbaler del Bruc (Nou Barris),8027,Sant Andreu,el Congrés i els Indians,tràfic,54,52,9076,13545,1419
+199,Escola Timbaler del Bruc (Nou Barris),8027,Sant Andreu,el Congrés i els Indians,tràfic,45,43,9076,13545,1419
+200,Escola Timbaler del Bruc (Nou Barris),8027,Sant Andreu,el Congrés i els Indians,fons,37,36,9076,13545,1419
+201,Escola Timbaler del Bruc (Nou Barris),8027,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,47,45,8017,15071,1336
+202,Escola Timbaler del Bruc (Nou Barris),8027,Sant Andreu,el Congrés i els Indians,tràfic,40,38,9075,13624,1531
+203,Escola Timbaler del Bruc (Nou Barris),8027,Sant Andreu,el Congrés i els Indians,tràfic,42,40,9075,13624,1531
+204,Escola Timbaler del Bruc (Nou Barris),8027,Sant Andreu,el Congrés i els Indians,tràfic,41,39,9076,13545,1419
+205,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,45,43,8012,13907,1348
+206,Escola Timbaler del Bruc (Nou Barris),8027,Sant Andreu,el Congrés i els Indians,tràfic,48,46,9079,14992,1609
+207,Escola Timbaler del Bruc (Nou Barris),8027,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,57,55,8012,13907,1348
+208,Escola Timbaler del Bruc (Nou Barris),8027,Sant Andreu,el Congrés i els Indians,tràfic,114,110,9079,14992,1609
+209,Escola Timbaler del Bruc (Nou Barris),8032,Horta-Guinardó,el Guinardó,tràfic,52,50,7047,14602,1511
+210,Escola Timbaler del Bruc (Nou Barris),8031,Nou Barris,Vilapicina i la Torre Llobeta,fons,41,39,8009,12793,1687
+211,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,53,51,8012,13907,1348
+212,Escola Timbaler del Bruc (Nou Barris),8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,131,126,8012,13907,1348
+213,Escola Timbaler del Bruc (Nou Barris),8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,46,44,8010,14657,1072
+214,Escola Timbaler del Bruc (Nou Barris),8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,56,54,8009,12793,1687
+215,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,50,48,8016,13103,1144
+216,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Porta,tràfic,42,40,8023,12106,1393
+217,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,62,60,8019,12464,1788
+218,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,45,43,8017,15071,1336
+219,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,fons,47,45,8017,15071,1336
+220,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,66,63,8017,15071,1336
+221,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,66,63,8015,12103,1420
+222,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,55,53,8015,12103,1420
+223,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,pati,54,52,8015,12103,1420
+224,Escola Timbaler del Bruc (Nou Barris),8027,Nou Barris,Vilapicina i la Torre Llobeta,pati,51,49,8015,12103,1420
+225,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,pati,45,43,8015,12103,1420
+226,Escola Timbaler del Bruc (Nou Barris),8016,Nou Barris,Vilapicina i la Torre Llobeta,aula,36,35,8015,12103,1420
+227,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,51,49,6088,17915,1223
+228,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,50,48,6082,17857,2002
+229,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,45,43,6083,18552,1743
+230,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,54,52,6082,17857,2002
+231,Escola Pau Casals (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,44,42,6080,16484,1174
+232,Escola Pau Casals (Gràcia),8024,Gràcia,la Vila de Gràcia,tràfic,53,51,6063,14963,1533
+233,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,fons,34,33,6088,17915,1223
+234,Escola Pau Casals (Gràcia),8024,Gràcia,la Salut,tràfic,40,38,6024,16907,1670
+235,Escola Pau Casals (Gràcia),8024,Gràcia,la Salut,fons,40,38,6024,16907,1670
+236,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,49,47,6087,20606,1857
+237,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,42,40,6087,20606,1857
+238,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,52,50,6088,17915,1223
+239,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,45,43,6088,17915,1223
+240,Escola Pau Casals (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,39,38,6079,17142,1088
+241,Escola Pau Casals (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,42,40,6077,15909,1192
+242,Escola Pau Casals (Gràcia),8037,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,46,44,6065,18767,1199
+243,Escola Pau Casals (Gràcia),8012,Gràcia,la Vila de Gràcia,tràfic,37,36,6059,16498,1529
+244,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,fons,38,37,6088,17915,1223
+245,Escola Pau Casals (Gràcia),8024,Gràcia,la Salut,fons,31,30,6022,17058,1355
+246,Escola Pau Casals (Gràcia),8024,Gràcia,la Salut,tràfic,57,55,6026,17723,1039
+247,Escola Pau Casals (Gràcia),8024,Gràcia,la Vila de Gràcia,tràfic,57,55,6029,17353,1268
+248,Escola Pau Casals (Gràcia),8024,Gràcia,la Vila de Gràcia,tràfic,48,46,6032,16509,1173
+249,Escola Pau Casals (Gràcia),8024,Gràcia,la Vila de Gràcia,fons,36,35,6031,16811,1092
+250,Escola Pau Casals (Gràcia),8024,Gràcia,la Vila de Gràcia,tràfic,40,38,6030,15083,1340
+251,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,45,43,6082,17857,2002
+252,Escola Pau Casals (Gràcia),8024,Gràcia,la Vila de Gràcia,tràfic,39,38,6062,14794,1288
+253,Escola Pau Casals (Gràcia),8024,Gràcia,la Vila de Gràcia,tràfic,41,39,6063,14963,1533
+254,Escola Pau Casals (Gràcia),8024,Gràcia,la Vila de Gràcia,tràfic,35,34,6063,14963,1533
+255,Escola Pau Casals (Gràcia),8012,Gràcia,la Vila de Gràcia,tràfic,36,35,6060,14756,1754
+256,Escola Pau Casals (Gràcia),8024,Gràcia,la Vila de Gràcia,fons,35,34,6063,14963,1533
+257,Escola Pau Casals (Gràcia),8024,Gràcia,la Salut,tràfic,45,43,6024,16907,1670
+258,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,41,39,6087,20606,1857
+259,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,37,36,6085,18340,1240
+260,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,49,47,6084,16919,1496
+261,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,39,38,6085,18340,1240
+262,Escola Pau Casals (Gràcia),8024,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,45,43,6086,20922,1016
+263,Escola Pau Casals (Gràcia),8024,Gràcia,la Salut,tràfic,62,60,6025,18589,1429
+264,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,tràfic,59,57,2048,15157,1277
+265,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,tràfic,47,45,2047,16025,1914
+266,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,tràfic,64,62,2046,14398,1905
+267,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,tràfic,50,48,2039,15339,1749
+268,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,tràfic,61,59,2038,17947,1584
+269,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,53,51,6073,16600,1350
+270,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,tràfic,46,44,2049,14250,2119
+271,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,tràfic,61,59,2049,14250,2119
+272,Escola Sagrada Família (Gràcia),8013,Eixample,la Sagrada Família,fons,46,44,2049,14250,2119
+273,Escola Sagrada Família (Gràcia),8013,Eixample,la Sagrada Família,tràfic,85,82,2026,15845,2131
+274,Escola Sagrada Família (Gràcia),8013,Eixample,la Sagrada Família,fons,44,42,2025,14286,1168
+275,Escola Sagrada Família (Gràcia),8013,Eixample,la Sagrada Família,tràfic,50,48,2024,15027,1089
+276,Escola Sagrada Família (Gràcia),8013,Eixample,la Sagrada Família,tràfic,52,50,2050,15316,1647
+277,Escola Sagrada Família (Gràcia),8013,Eixample,la Sagrada Família,tràfic,46,44,2052,16228,1787
+278,Escola Sagrada Família (Gràcia),8013,Eixample,la Sagrada Família,fons,40,38,2052,16228,1787
+279,Escola Sagrada Família (Gràcia),8025,Eixample,la Dreta de l'Eixample,tràfic,46,44,2056,17141,1457
+280,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,tràfic,47,45,2054,16703,1874
+281,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,fons,44,42,6072,18962,1608
+282,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,42,40,6072,18962,1608
+283,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,pati,40,38,6072,18962,1608
+284,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,pati,45,43,6072,18962,1608
+285,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,aula,32,31,6072,18962,1608
+286,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,aula,30,29,6072,18962,1608
+287,Escola Sagrada Família (Gràcia),8037,Eixample,la Dreta de l'Eixample,tràfic,52,50,2057,21575,1306
+288,Escola Sagrada Família (Gràcia),8037,Eixample,la Dreta de l'Eixample,tràfic,61,59,2055,17667,1843
+289,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,52,50,6069,18206,1085
+290,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,42,40,6070,16787,1851
+291,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,fons,37,36,6071,16860,1074
+292,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,48,46,6076,17555,1328
+293,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,66,63,6076,17555,1328
+294,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,55,53,6077,15909,1192
+295,Escola Sagrada Família (Gràcia),8025,Gràcia,el Camp d'en Grassot i Gràcia Nova,tràfic,45,43,6074,15572,1098
+296,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,fons,41,39,2042,18915,1630
+297,Escola Sagrada Família (Gràcia),8025,Eixample,la Sagrada Família,tràfic,63,61,2042,18915,1630
+298,Escola Sagrada Família (Gràcia),8025,Horta-Guinardó,el Baix Guinardó,tràfic,76,73,7005,14704,1476
+299,Escola Sagrada Família (Gràcia),8025,Horta-Guinardó,el Baix Guinardó,fons,38,37,7006,16675,947
+300,Escola Sagrada Família (Gràcia),8025,Horta-Guinardó,el Baix Guinardó,tràfic,38,37,7006,16675,947
+301,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,aula,37,36,2148,17352,1608
+302,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,pati,42,40,2148,17352,1608
+303,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,65,63,2148,17352,1608
+304,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,53,51,2147,15533,2172
+305,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,53,51,2149,16679,1835
+306,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,86,83,2150,15236,1481
+307,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,fons,46,44,2146,17166,1164
+308,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,58,56,2159,16496,1890
+309,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,fons,42,40,2158,16512,1665
+310,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,51,49,2161,16392,1113
+311,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,89,86,2160,18153,1994
+312,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,54,52,2159,16496,1890
+313,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,45,43,2158,16512,1665
+314,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,60,58,2144,17890,1572
+315,Escola Joan Miró (L'Eixample),8011,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,73,70,2094,19958,1425
+316,Escola Joan Miró (L'Eixample),8011,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,87,84,2097,16521,1080
+317,Escola Joan Miró (L'Eixample),8015,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,68,65,2095,18301,1507
+318,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,67,64,2140,17368,1917
+319,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,64,62,2142,14657,1971
+320,Escola Joan Miró (L'Eixample),8011,Eixample,l'Antiga Esquerra de l'Eixample,fons,69,66,2094,19958,1425
+321,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,68,65,2153,19013,1343
+322,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,67,64,2155,14604,1887
+323,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,72,69,2168,16000,2191
+324,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,70,67,2173,15582,1555
+325,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,tràfic,61,59,2155,14604,1887
+326,Escola Joan Miró (L'Eixample),8015,Eixample,Sant Antoni,fons,71,68,2173,15582,1555
+327,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,96,92,2135,15207,2112
+328,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,66,63,2131,16436,1212
+329,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,66,63,2131,16436,1212
+330,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,51,49,2148,17352,1608
+331,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,62,60,2136,17982,913
+332,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,55,53,2133,18569,878
+333,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,fons,38,37,2148,17352,1608
+334,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,49,47,2140,17368,1917
+335,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,50,48,2140,17368,1917
+336,Escola Joan Miró (L'Eixample),8015,Eixample,la Nova Esquerra de l'Eixample,tràfic,48,46,2135,15207,2112
+337,Escola Joan Miró (L'Eixample),8029,Eixample,la Nova Esquerra de l'Eixample,tràfic,87,84,2120,17454,1192
+338,Escola Joan Miró (L'Eixample),8029,Eixample,la Nova Esquerra de l'Eixample,tràfic,46,44,2120,17454,1192
+339,Escola Joan Miró (L'Eixample),8029,Eixample,la Nova Esquerra de l'Eixample,tràfic,44,42,2128,15964,1303
+340,Escola Joan Miró (L'Eixample),8029,Eixample,la Nova Esquerra de l'Eixample,tràfic,54,52,2129,18583,1511
+341,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,50,48,2002,15377,2599
+342,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,52,50,2003,18333,1263
+343,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,aula,38,37,2003,18333,1263
+344,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,fons,40,38,2003,18333,1263
+345,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,57,55,2003,18333,1263
+346,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,62,60,2003,18333,1263
+347,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,61,59,2012,14271,1551
+348,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,fons,45,43,2003,18333,1263
+349,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,66,63,2009,16521,1771
+350,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,51,49,2013,14346,1151
+351,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,59,57,2013,14346,1151
+352,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,66,63,2013,14346,1151
+353,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,44,42,2011,18279,1093
+354,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,66,63,2010,16014,1194
+355,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,51,49,2009,16521,1771
+356,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,43,41,2009,16521,1771
+357,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,57,55,2009,16521,1771
+358,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,56,54,2008,17398,1852
+359,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,57,55,2016,17476,1872
+360,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,53,51,2008,17398,1852
+361,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,46,44,2002,15377,2599
+362,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,fons,44,42,2002,15377,2599
+363,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,57,55,2007,19053,1281
+364,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,58,56,2008,17398,1852
+365,Escola Fort Pienc (L'Eixample),8013,Eixample,la Dreta de l'Eixample,tràfic,65,63,2068,16980,1624
+366,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,fons,42,40,2009,16521,1771
+367,Escola Fort Pienc (L'Eixample),8013,Eixample,la Dreta de l'Eixample,tràfic,53,51,2067,16563,1676
+368,Escola Fort Pienc (L'Eixample),8018,Eixample,el Fort Pienc,fons,39,38,2001,15417,1315
+369,Escola Fort Pienc (L'Eixample),8018,Eixample,el Fort Pienc,tràfic,45,43,2001,15417,1315
+370,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,40,38,2008,17398,1852
+371,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,43,41,2005,17904,2037
+372,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,pati,40,38,2003,18333,1263
+373,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,46,44,2001,15417,1315
+374,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,53,51,2020,14801,1406
+375,Escola Fort Pienc (L'Eixample),8013,Eixample,la Sagrada Família,tràfic,52,50,2021,15222,1497
+376,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,49,47,2005,17904,2037
+377,Escola Fort Pienc (L'Eixample),8013,Eixample,la Dreta de l'Eixample,tràfic,55,53,2067,16563,1676
+378,Escola Fort Pienc (L'Eixample),8010,Eixample,el Fort Pienc,tràfic,46,44,2001,15417,1315
+379,Escola Fort Pienc (L'Eixample),8013,Eixample,el Fort Pienc,tràfic,52,50,2001,15417,1315
+380,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,aula,23,22,5005,25314,1227
+381,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,pati,26,25,5005,25314,1227
+382,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,45,43,5005,25314,1227
+383,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,28,27,5005,25314,1227
+384,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,50,48,5005,25314,1227
+385,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,42,40,5005,25314,1227
+386,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,44,42,5005,25314,1227
+387,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,35,34,5004,30210,1123
+388,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,65,63,5005,25314,1227
+389,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,65,63,5007,25829,1732
+390,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,62,60,5007,25829,1732
+391,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,42,40,5004,30210,1123
+392,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,40,38,5007,25829,1732
+393,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,48,46,5008,26342,1644
+394,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,59,57,5007,25829,1732
+395,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,tràfic,30,29,5007,25829,1732
+396,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,41,39,5005,25314,1227
+397,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,fons,29,28,5007,25829,1732
+398,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,fons,35,34,5007,25829,1732
+399,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,fons,31,30,5007,25829,1732
+400,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,tràfic,88,85,5006,30210,1752
+401,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,fons,37,36,5009,22985,1723
+402,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,tràfic,52,50,5006,30210,1752
+403,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,tràfic,47,45,5006,30210,1752
+404,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,37,36,5008,26342,1644
+405,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,43,41,5008,26342,1644
+406,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,38,37,5008,26342,1644
+407,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,tràfic,40,38,5009,22985,1723
+408,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,tràfic,50,48,5009,22985,1723
+409,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,tràfic,38,37,5009,22985,1723
+410,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8034,Sarrià-Sant Gervasi,Sarrià,fons,30,29,5007,25829,1732
+411,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,51,49,5007,25829,1732
+412,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,47,45,5008,26342,1644
+413,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,69,66,5008,26342,1644
+414,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,62,60,5008,26342,1644
+415,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,fons,27,26,5005,25314,1227
+416,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,fons,31,30,5005,25314,1227
+417,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,fons,65,63,5007,25829,1732
+418,Escola Dolors Monserdà Santa Pau (Sarrià-Sant Gervasi),8017,Sarrià-Sant Gervasi,Sarrià,tràfic,55,53,5005,25314,1227
+419,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,41,39,3030,13031,1623
+420,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,43,41,3030,13031,1623
+421,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,42,40,3030,13031,1623
+422,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,39,38,3029,11155,1291
+423,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,41,39,3027,13044,1782
+424,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,45,43,3027,13044,1782
+425,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,57,55,3029,11155,1291
+426,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,57,55,3030,13031,1623
+427,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,52,50,3030,13031,1623
+428,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,43,41,3031,12162,2438
+429,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,47,45,3031,12162,2438
+430,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,45,43,3031,12162,2438
+431,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,42,40,3032,10628,1646
+432,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,42,40,3032,10628,1646
+433,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,62,60,3033,9313,1423
+434,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,60,58,3211,12937,1504
+435,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,67,64,3211,12937,1504
+436,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,aula,22,21,3034,12588,1506
+437,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,pati,34,33,3028,14942,2568
+438,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,41,39,3028,14942,2568
+439,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,56,54,3030,13031,1623
+440,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,46,44,3028,14942,2568
+441,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,45,43,3029,11155,1291
+442,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,42,40,3028,14942,2568
+443,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,44,42,3028,14942,2568
+444,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,49,47,3028,14942,2568
+445,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,40,38,3028,14942,2568
+446,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,59,57,3028,14942,2568
+447,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,65,63,3212,11958,2454
+448,Escola Seat (Sants-Montjuïc),8014,Sants-Montjuïc,la Marina de Port,tràfic,86,83,3036,13839,2371
+449,Escola Seat (Sants-Montjuïc),8014,Sants-Montjuïc,la Marina de Port,tràfic,80,77,3036,13839,2371
+450,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,44,42,3212,11958,2454
+451,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,43,41,3212,11958,2454
+452,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,49,47,3035,12801,2302
+453,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,65,63,3037,13263,1069
+454,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,tràfic,61,59,3033,9313,1423
+455,Escola Seat (Sants-Montjuïc),8038,Sants-Montjuïc,la Marina de Port,fons,59,57,3211,12937,1504
+456,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,34,33,7060,10803,1840
+457,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,55,53,7068,9458,1293
+458,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,52,50,7067,10215,1519
+459,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,37,36,7064,11151,1640
+460,Escola Coves d'en Cimany (Horta-Guinardó),8024,Horta-Guinardó,el Carmel,tràfic,35,34,7060,10803,1840
+461,Escola Coves d'en Cimany (Horta-Guinardó),8024,Horta-Guinardó,el Carmel,tràfic,36,35,7060,10803,1840
+462,Escola Coves d'en Cimany (Horta-Guinardó),8024,Horta-Guinardó,el Carmel,fons,39,38,7061,11669,1221
+463,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,53,51,7066,9991,1805
+464,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,38,37,7060,10803,1840
+465,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,36,35,7060,10803,1840
+466,Escola Coves d'en Cimany (Horta-Guinardó),8035,Horta-Guinardó,la Teixonera,tràfic,38,37,7083,11990,1254
+467,Escola Coves d'en Cimany (Horta-Guinardó),8035,Horta-Guinardó,la Teixonera,tràfic,35,34,7083,11990,1254
+468,Escola Coves d'en Cimany (Horta-Guinardó),8035,Horta-Guinardó,la Teixonera,tràfic,45,43,7083,11990,1254
+469,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,la Teixonera,tràfic,41,39,7082,11609,1268
+470,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,39,38,7063,10388,1442
+471,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,52,50,7074,11436,1687
+472,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,39,38,7063,10388,1442
+473,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,pati,31,30,7061,11669,1221
+474,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,aula,27,26,7061,11669,1221
+475,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,53,51,7061,11669,1221
+476,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,fons,47,45,7061,11669,1221
+477,Escola Coves d'en Cimany (Horta-Guinardó),8023,Gràcia,el Carmel,fons,39,38,6017,13526,1331
+478,Escola Coves d'en Cimany (Horta-Guinardó),8023,Horta-Guinardó,el Carmel,tràfic,33,32,7061,11669,1221
+479,Escola Coves d'en Cimany (Horta-Guinardó),8023,Gràcia,el Coll,fons,34,33,6017,13526,1331
+480,Escola Coves d'en Cimany (Horta-Guinardó),8023,Gràcia,el Coll,tràfic,56,54,6016,13038,1613
+481,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,46,44,7062,12351,1290
+482,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,fons,38,37,7062,12351,1290
+483,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,42,40,7062,12351,1290
+484,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,40,38,7064,11151,1640
+485,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,37,36,7076,10426,1332
+486,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,40,38,7079,11580,1387
+487,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,fons,48,46,7079,11580,1387
+488,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,118,114,7071,12433,1371
+489,Escola Coves d'en Cimany (Horta-Guinardó),8032,Horta-Guinardó,el Carmel,tràfic,119,114,7070,10632,1451
+490,80Tubes,8002,Eixample,la Dreta de l'Eixample,fons,51,49,2077,21540,1539
+491,80Tubes,8007,Eixample,la Dreta de l'Eixample,tràfic,88,85,2077,21540,1539
+492,80Tubes,8010,Eixample,la Dreta de l'Eixample,tràfic,92,89,2077,21540,1539
+493,80Tubes,8009,Eixample,la Dreta de l'Eixample,tràfic,104,100,2078,25042,1400
+494,80Tubes,8007,Eixample,la Dreta de l'Eixample,tràfic,91,88,2077,21540,1539
+495,80Tubes,8007,Eixample,la Dreta de l'Eixample,tràfic,62,60,2079,23417,1308
+496,80Tubes,8007,Eixample,la Dreta de l'Eixample,tràfic,59,57,2079,23417,1308
+497,80Tubes,8009,Eixample,la Dreta de l'Eixample,tràfic,94,90,2078,25042,1400
+498,80Tubes,8007,Eixample,la Dreta de l'Eixample,tràfic,64,62,2078,25042,1400
+499,80Tubes,8007,Eixample,la Dreta de l'Eixample,tràfic,61,59,2079,23417,1308
+500,80Tubes,8007,Eixample,la Dreta de l'Eixample,tràfic,66,63,2079,23417,1308
+501,80Tubes,8007,Eixample,l'Antiga Esquerra de l'Eixample,fons,50,48,2090,17862,1756
+502,80Tubes,8008,Eixample,la Dreta de l'Eixample,tràfic,58,56,2081,23881,2118
+503,80Tubes,8007,Eixample,la Dreta de l'Eixample,tràfic,51,49,2081,23881,2118
+504,80Tubes,8008,Eixample,la Dreta de l'Eixample,tràfic,50,48,2083,27554,1858
+505,80Tubes,8008,Eixample,la Dreta de l'Eixample,tràfic,59,57,2083,27554,1858
+506,80Tubes,8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,59,57,2102,21233,1398
+507,80Tubes,8036,Eixample,l'Antiga Esquerra de l'Eixample,fons,54,52,2103,16235,1676
+508,80Tubes,8008,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,47,45,2084,18939,2058
+509,80Tubes,8022,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,tràfic,65,63,5046,30210,1153
+510,80Tubes,8017,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,tràfic,54,52,5031,30210,1668
+511,80Tubes,8017,Sarrià-Sant Gervasi,les Tres Torres,fons,40,38,5026,30210,1477
+512,80Tubes,8017,Sarrià-Sant Gervasi,les Tres Torres,tràfic,98,94,5028,30210,1642
+513,80Tubes,8017,Sarrià-Sant Gervasi,les Tres Torres,tràfic,96,92,5025,30210,1347
+514,80Tubes,8017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,93,89,5049,30210,1718
+515,80Tubes,8022,Sarrià-Sant Gervasi,Sant Gervasi - la Bonanova,tràfic,128,123,5042,21924,1277
+516,80Tubes,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,112,108,5053,30210,1509
+517,80Tubes,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,97,93,5063,26341,1587
+518,80Tubes,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,61,59,5060,30210,1159
+519,80Tubes,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,49,47,5054,30210,1032
+520,80Tubes,8017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,58,56,5055,30210,1475
+521,80Tubes,8017,Sarrià-Sant Gervasi,les Tres Torres,tràfic,93,89,5020,25730,1130
+522,80Tubes,8017,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,42,40,5055,30210,1475
+523,80Tubes,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,33,32,5058,30210,1580
+524,80Tubes,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,fons,50,48,5062,25357,1568
+525,80Tubes,8029,Sarrià-Sant Gervasi,les Corts,fons,60,58,5059,28863,1667
+526,80Tubes,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,60,58,5057,30045,1689
+527,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,34,33,7058,15749,1375
+528,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,41,39,7057,16246,1451
+529,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,40,38,7055,20600,1192
+530,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,33,32,7055,20600,1192
+531,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,33,32,7056,15993,1185
+532,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,30,29,7053,16012,1455
+533,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,31,30,7054,19725,1555
+534,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,tràfic,42,40,7053,16012,1455
+535,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,tràfic,44,42,7053,16012,1455
+536,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,tràfic,34,33,7053,16012,1455
+537,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,pati,37,36,7053,16012,1455
+538,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,aula,15,14,7053,16012,1455
+539,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,42,40,7052,18463,1233
+540,Escola Àngels Garriga (Horta-Guinardó),8031,Horta-Guinardó,Vilapicina i la Torre Llobeta,tràfic,58,56,7048,15537,1258
+541,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,tràfic,55,53,7052,18463,1233
+542,Escola Àngels Garriga (Horta-Guinardó),8031,Nou Barris,Vilapicina i la Torre Llobeta,tràfic,58,56,8006,14087,1505
+543,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,tràfic,49,47,7053,16012,1455
+544,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,tràfic,60,58,7057,16246,1451
+545,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,tràfic,41,39,7054,19725,1555
+546,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,33,32,7056,15993,1185
+547,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,32,31,7054,19725,1555
+548,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,44,42,7055,20600,1192
+549,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,41,39,7054,19725,1555
+550,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,36,35,7054,19725,1555
+551,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,37,36,7054,19725,1555
+552,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,34,33,7054,19725,1555
+553,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,38,37,7053,16012,1455
+554,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,38,37,7052,18463,1233
+555,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,37,36,7052,18463,1233
+556,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,43,41,7051,14690,1739
+557,Escola Àngels Garriga (Horta-Guinardó),8032,Horta-Guinardó,la Font d'en Fargues,fons,46,44,7049,16293,1205
+558,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,43,41,1031,11019,1544
+559,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,42,40,1026,11523,3677
+560,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,49,47,1026,11523,3677
+561,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,55,53,1031,11019,1544
+562,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,49,47,1030,10307,2482
+563,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,42,40,1031,11019,1544
+564,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,45,43,1030,10307,2482
+565,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,tràfic,41,39,1027,12440,1629
+566,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,42,40,1027,12440,1629
+567,Escola Baixeras (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,56,54,1043,15445,1617
+568,Escola Baixeras (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,47,45,1046,11485,1747
+569,Escola Baixeras (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,46,44,1045,12453,1950
+570,Escola Baixeras (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,58,56,1045,12453,1950
+571,Escola Baixeras (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,61,59,1043,15445,1617
+572,Escola Baixeras (Ciutat Vella),8039,Ciutat Vella,la Barceloneta,tràfic,85,82,1032,13273,1794
+573,Escola Baixeras (Ciutat Vella),8003,Ciutat Vella,la Barceloneta,fons,49,47,1039,12013,1279
+574,Escola Baixeras (Ciutat Vella),8003,Ciutat Vella,la Barceloneta,fons,48,46,1035,10622,1292
+575,Escola Baixeras (Ciutat Vella),8039,Ciutat Vella,la Barceloneta,tràfic,58,56,1032,13273,1794
+576,Escola Baixeras (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,51,49,1043,15445,1617
+577,Escola Baixeras (Ciutat Vella),8001,Ciutat Vella,el Raval,tràfic,51,49,1007,8948,1982
+578,Escola Baixeras (Ciutat Vella),8001,Ciutat Vella,el Raval,fons,39,38,1019,8434,2845
+579,Escola Baixeras (Ciutat Vella),8001,Ciutat Vella,el Raval,tràfic,47,45,1020,14076,2069
+580,Escola Baixeras (Ciutat Vella),8001,Ciutat Vella,el Raval,tràfic,97,93,1021,13108,2019
+581,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Raval,tràfic,58,56,1020,14076,2069
+582,Escola Baixeras (Ciutat Vella),8001,Ciutat Vella,el Raval,tràfic,60,58,1021,13108,2019
+583,Escola Baixeras (Ciutat Vella),8003,Ciutat Vella,el Barri Gòtic,aula,87,84,1026,11523,3677
+584,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,aula,54,52,1026,11523,3677
+585,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,pati,49,47,1026,11523,3677
+586,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,49,47,1026,11523,3677
+587,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,pati,50,48,1026,11523,3677
+588,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,aula,30,29,1027,12440,1629
+589,Escola Baixeras (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,pati,41,39,1027,12440,1629
+590,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",pati,42,40,1050,12150,1554
+591,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",pati,40,38,1050,12150,1554
+592,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,43,41,1050,12150,1554
+593,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",pati,41,39,1050,12150,1554
+594,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,44,42,1051,10159,1767
+595,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,39,38,1053,11529,1862
+596,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,47,45,1044,14540,1456
+597,Escola Cervantes (Ciutat Vella),8018,Ciutat Vella,el Fort Pienc,tràfic,64,62,1055,15089,1333
+598,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,56,54,1045,12453,1950
+599,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,47,45,1047,11475,1727
+600,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,60,58,1047,11475,1727
+601,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,46,44,1047,11475,1727
+602,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,45,43,1048,9599,2051
+603,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,47,45,1048,9599,2051
+604,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,51,49,1044,14540,1456
+605,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,56,54,1052,16250,2694
+606,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,99,95,1052,16250,2694
+607,Escola Cervantes (Ciutat Vella),8010,Ciutat Vella,la Dreta de l'Eixample,tràfic,101,97,1052,16250,2694
+608,Escola Cervantes (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,56,54,1023,13676,1982
+609,Escola Cervantes (Ciutat Vella),8010,Eixample,la Dreta de l'Eixample,tràfic,92,89,2075,20297,1238
+610,Escola Cervantes (Ciutat Vella),8010,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,66,63,1052,16250,2694
+611,Escola Cervantes (Ciutat Vella),8010,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,98,94,1052,16250,2694
+612,Escola Cervantes (Ciutat Vella),8018,Eixample,el Fort Pienc,tràfic,47,45,2001,15417,1315
+613,Escola Cervantes (Ciutat Vella),8018,Eixample,el Fort Pienc,tràfic,41,39,2001,15417,1315
+614,Escola Cervantes (Ciutat Vella),8013,Eixample,el Fort Pienc,tràfic,43,41,2001,15417,1315
+615,Escola Cervantes (Ciutat Vella),8018,Eixample,el Fort Pienc,tràfic,52,50,2001,15417,1315
+616,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,43,41,1047,11475,1727
+617,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,48,46,1047,11475,1727
+618,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,44,42,1047,11475,1727
+619,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,40,38,1048,9599,2051
+620,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,36,35,1053,11529,1862
+621,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,36,35,1048,9599,2051
+622,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,40,38,1053,11529,1862
+623,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",fons,33,32,1054,12840,1283
+624,Escola Cervantes (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,41,39,1022,15707,1276
+625,Escola Cervantes (Ciutat Vella),8002,Ciutat Vella,el Barri Gòtic,fons,102,98,1023,13676,1982
+626,Escola Cervantes (Ciutat Vella),8003,Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",tràfic,108,104,1047,11475,1727
+627,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,fons,37,36,4029,24289,1139
+628,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,pati,31,30,4029,24289,1139
+629,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,pati,35,34,4029,24289,1139
+630,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,fons,43,41,4029,24289,1139
+631,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,pati,39,38,4029,24289,1139
+632,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,pati,35,34,4029,24289,1139
+633,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,aula,24,23,4029,24289,1139
+634,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,54,52,4049,25776,1185
+635,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,48,46,4043,20679,1647
+636,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,40,38,4043,20679,1647
+637,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,fons,36,35,4049,25776,1185
+638,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,32,31,4049,25776,1185
+639,Escola Les Corts (Les Corts),8029,Les Corts,les Corts,tràfic,46,44,4021,24319,1322
+640,Escola Les Corts (Les Corts),8029,Les Corts,les Corts,tràfic,55,53,4022,20594,1605
+641,Escola Les Corts (Les Corts),8029,Les Corts,les Corts,tràfic,55,53,4022,20594,1605
+642,Escola Les Corts (Les Corts),8029,Les Corts,les Corts,tràfic,45,43,4022,20594,1605
+643,Escola Les Corts (Les Corts),8029,Les Corts,les Corts,fons,45,43,4022,20594,1605
+644,Escola Les Corts (Les Corts),8029,Les Corts,les Corts,tràfic,51,49,4027,18424,1248
+645,Escola Les Corts (Les Corts),8014,Les Corts,les Corts,tràfic,46,44,4026,20121,1243
+646,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,fons,43,41,4049,25776,1185
+647,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,tràfic,53,51,4030,21248,1781
+648,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,tràfic,63,61,4034,22429,1497
+649,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,94,90,4048,20624,1523
+650,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,fons,50,48,4029,24289,1139
+651,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,65,63,4049,25776,1185
+652,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,58,56,4049,25776,1185
+653,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,fons,33,32,4049,25776,1185
+654,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,fons,33,32,4049,25776,1185
+655,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,fons,44,42,4049,25776,1185
+656,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,fons,38,37,4029,24289,1139
+657,Escola Les Corts (Les Corts),8028,Les Corts,les Corts,tràfic,44,42,4028,18611,1310
+658,Escola Les Corts (Les Corts),8014,Les Corts,les Corts,tràfic,50,48,4028,18611,1310
+659,Escola Les Corts (Les Corts),8014,Les Corts,les Corts,fons,36,35,4027,18424,1248
+660,Escola Les Corts (Les Corts),8014,Les Corts,les Corts,fons,41,39,4025,18982,1166
+661,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,63,61,4049,25776,1185
+662,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,40,38,4049,25776,1185
+663,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,55,53,4049,25776,1185
+664,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,66,63,4049,25776,1185
+665,Escola Les Corts (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,49,47,4049,25776,1185
+666,Escola Lavínia (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,fons,39,38,4039,17074,1209
+667,Escola Lavínia (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,56,54,4041,14769,1332
+668,Escola Lavínia (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,fons,41,39,4041,14769,1332
+669,Escola Lavínia (Les Corts),8028,Sants-Montjuïc,Sants - Badal,tràfic,62,60,3080,13398,1547
+670,Escola Lavínia (Les Corts),8028,Sants-Montjuïc,Sants - Badal,tràfic,55,53,3081,14729,1818
+671,Escola Lavínia (Les Corts),8028,Sants-Montjuïc,Sants - Badal,tràfic,60,58,3082,16073,1893
+672,Escola Lavínia (Les Corts),8028,Les Corts,les Corts,fons,49,47,4034,22429,1497
+673,Escola Lavínia (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,60,58,4036,15724,1729
+674,Escola Lavínia (Les Corts),8028,Les Corts,la Maternitat i Sant Ramon,tràfic,42,40,4037,17247,2155
+675,Escola Lavínia (Les Corts),8028,Sants-Montjuïc,Sants - Badal,tràfic,43,41,3085,14908,1263
+676,Escola Lavínia (Les Corts),8028,Sants-Montjuïc,Sants,tràfic,39,38,3092,15147,1200
+677,Escola Lavínia (Les Corts),8028,Sants-Montjuïc,Sants,tràfic,46,44,3087,17011,1483
+678,Escola Lavínia (Les Corts),8028,Les Corts,les Corts,tràfic,65,63,4035,20417,1397
+679,Escola Lavínia (Les Corts),8014,Sants-Montjuïc,Sants,fons,51,49,3110,15548,1490
+680,Escola Lavínia (Les Corts),8028,Sants-Montjuïc,Sants,fons,54,52,3089,16489,1243
+681,Escola Lavínia (Les Corts),8028,Les Corts,les Corts,fons,45,43,4034,22429,1497
+682,Escola Lavínia (Les Corts),8028,Les Corts,les Corts,tràfic,45,43,4032,18059,1537
+683,Escola Lavínia (Les Corts),8014,Les Corts,les Corts,tràfic,65,63,4006,18270,1134
+684,Escola Lavínia (Les Corts),8014,Sants-Montjuïc,Sants,fons,56,54,3110,15548,1490
+685,Escola Lavínia (Les Corts),8014,Les Corts,les Corts,fons,40,38,4010,20010,846
+686,Escola Lavínia (Les Corts),8029,Les Corts,les Corts,fons,43,41,4012,19019,1393
+687,Escola Lavínia (Les Corts),8029,Les Corts,les Corts,tràfic,51,49,4012,19019,1393
+688,Escola Lavínia (Les Corts),8014,Les Corts,les Corts,tràfic,56,54,4026,20121,1243
+689,Escola Lavínia (Les Corts),8014,Les Corts,les Corts,tràfic,46,44,4010,20010,846
+690,Escola Lavínia (Les Corts),8029,Les Corts,les Corts,fons,42,40,4017,20028,1155
+691,Escola Lavínia (Les Corts),8029,Les Corts,les Corts,tràfic,41,39,4018,20859,1551
+692,Escola Lavínia (Les Corts),8029,Les Corts,les Corts,fons,53,51,4020,21478,1470
+693,Escola Lavínia (Les Corts),8029,Les Corts,les Corts,tràfic,46,44,4014,20157,865
+694,Escola Lavínia (Les Corts),8029,Les Corts,les Corts,tràfic,56,54,4012,19019,1393
+695,Escola Lavínia (Les Corts),8028,Les Corts,les Corts,aula,27,26,4035,20417,1397
+696,Escola Lavínia (Les Corts),8028,Les Corts,les Corts,tràfic,49,47,4035,20417,1397
+697,80Tubes,8006,Gràcia,la Vila de Gràcia,tràfic,55,53,6044,21429,1507
+698,80Tubes,8037,Eixample,la Dreta de l'Eixample,tràfic,58,56,2060,18931,1671
+699,80Tubes,8037,Gràcia,la Vila de Gràcia,tràfic,62,60,6057,14726,1497
+700,80Tubes,8008,Gràcia,la Vila de Gràcia,fons,64,62,6044,21429,1507
+701,80Tubes,8012,Gràcia,la Vila de Gràcia,tràfic,109,105,6043,16333,1294
+702,80Tubes,8012,Gràcia,la Vila de Gràcia,fons,41,39,6047,14235,1488
+703,80Tubes,8012,Gràcia,la Vila de Gràcia,tràfic,48,46,6046,15049,1155
+704,80Tubes,8012,Gràcia,la Vila de Gràcia,fons,44,42,6050,13834,1241
+705,80Tubes,8012,Gràcia,la Vila de Gràcia,tràfic,98,94,6042,19886,1760
+706,80Tubes,8012,Gràcia,la Vila de Gràcia,tràfic,50,48,6049,16466,1163
+707,80Tubes,8012,Gràcia,la Vila de Gràcia,tràfic,56,54,6052,15080,1540
+708,80Tubes,8012,Gràcia,la Vila de Gràcia,fons,42,40,6053,16294,1481
+709,80Tubes,8012,Gràcia,la Vila de Gràcia,tràfic,43,41,6051,15499,1270
+710,80Tubes,8012,Gràcia,la Vila de Gràcia,tràfic,54,52,6038,17184,1465
+711,80Tubes,8023,Gràcia,la Vila de Gràcia,fons,58,56,6037,16587,1105
+712,80Tubes,8006,Sarrià-Sant Gervasi,el Putxet i el Farró,fons,41,39,5083,19716,1273
+713,80Tubes,8006,Sarrià-Sant Gervasi,el Putxet i el Farró,tràfic,53,51,5081,20108,1607
+714,80Tubes,8006,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,87,84,5068,23567,1537
+715,80Tubes,8006,Gràcia,la Vila de Gràcia,fons,56,54,6044,21429,1507
+716,80Tubes,8037,Eixample,la Dreta de l'Eixample,tràfic,63,61,2082,22869,934
+717,80Tubes,8008,Eixample,la Dreta de l'Eixample,tràfic,54,52,2083,27554,1858
+718,80Tubes,8008,Eixample,la Dreta de l'Eixample,tràfic,83,80,2083,27554,1858
+719,80Tubes,8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,94,90,2085,20400,1484
+720,80Tubes,8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,92,89,2106,21125,1454
+721,80Tubes,8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,50,48,2106,21125,1454
+722,80Tubes,8021,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,86,83,5065,22850,1696
+723,80Tubes,8036,Eixample,l'Antiga Esquerra de l'Eixample,tràfic,91,88,2086,20718,1442
+724,80Tubes,8006,Sarrià-Sant Gervasi,Sant Gervasi - Galvany,tràfic,92,89,5068,23567,1537
